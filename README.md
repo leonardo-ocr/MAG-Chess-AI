@@ -3,7 +3,7 @@
 
 ### Description
 
-The **MAG Chess AI** is an academic project developed for the Integrated Project INF II course in the Systems Analysis and Development program at the Universidade de Taubaté (UNITAU). Its goal is to implement a chess AI capable of emulating distinct styles of grandmasters—such as Anatoly Karpov, Mikhail Tal, and Garry Kasparov—using the Minimax algorithm with Alpha-Beta pruning and parameterizable heuristic evaluation functions. citeturn0file0
+The **MAG Chess AI** is an academic project developed for the Integrated Project INF II course in the Systems Analysis and Development program at the Universidade de Taubaté (UNITAU). Its goal is to implement a chess AI capable of emulating distinct styles of grandmasters—such as Anatoly Karpov, Mikhail Tal, and Garry Kasparov—using the Minimax algorithm with Alpha-Beta pruning and parameterizable heuristic evaluation functions.
 
 ### Key Features
 
@@ -17,7 +17,7 @@ The **MAG Chess AI** is an academic project developed for the Integrated Project
 
 ### Descrição
 
-O **MAG Chess AI** é um projeto acadêmico desenvolvido como parte da disciplina Projeto Integrador INF II, do curso de Análise e Desenvolvimento de Sistemas da Universidade de Taubaté (UNITAU). O objetivo é implementar uma IA de xadrez capaz de emular estilos distintos de grandes mestres—como Anatoly Karpov, Mikhail Tal e Garry Kasparov—utilizando o algoritmo Minimax com poda Alfa-Beta e funções de avaliação heurística parametrizáveis. citeturn0file0
+O **MAG Chess AI** é um projeto acadêmico desenvolvido como parte da disciplina Projeto Integrador INF II, do curso de Análise e Desenvolvimento de Sistemas da Universidade de Taubaté (UNITAU). O objetivo é implementar uma IA de xadrez capaz de emular estilos distintos de grandes mestres—como Anatoly Karpov, Mikhail Tal e Garry Kasparov—utilizando o algoritmo Minimax com poda Alfa-Beta e funções de avaliação heurística parametrizáveis.
 
 ### Funcionalidades Principais
 
